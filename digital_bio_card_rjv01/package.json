@@ -1,5 +1,5 @@
 {
-  "name": "anshulsarathe",
+  "name": "rajshekharverma",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "ora": "^8.1.1"
   },
   "bin": {
-  "anshulsarathe": "./index.js"
+  "rajshekharverma": "./index.js"
 }
 
 }

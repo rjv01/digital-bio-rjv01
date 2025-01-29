@@ -27,14 +27,17 @@ setTimeout(() => {
   // Profile box
   const profile = boxen(
     `${chalk.blueBright.bold("Bio:")}
-     Passionate developer skilled in C++ and JavaScript, with hands-on experience in both front-end and back-end development. Proficient in frameworks like Django, Node.js(runtime env), and React.js(lib.), and experienced in working with databases such as MongoDB. Built impactful projects like a job portal (Suvidha) for rural communities and an event management system  (EventPro)for student registrations and club memberships. Adept at using HTML, CSS, TailwindCSS, and Git to create user-friendly web applications. Strong problem-solving skills with 400+ DSA questions solved and a knack for learning from mistakes to improve solutions. Eager to contribute to meaningful projects that address real-world needs and enhance user experiences.
+     Passionate developer skilled in C++ and JavaScript, with hands-on experience in both front-end and back-end development. Proficient in frameworks like Django, Node.js(runtime env), and React.js(lib.), and experienced in working with databases such as MongoDB.
+     Built impactful projects like a job portal (Suvidha) for rural communities and an event management system  (EventPro)for student registrations and club memberships. Adept at using HTML, CSS, TailwindCSS, and Git to create user-friendly web applications.
+     Strong problem-solving skills with 400+ DSA questions solved and a knack for learning from mistakes to improve solutions. Eager to contribute to meaningful projects that address real-world needs and enhance user experiences.
 
   ${chalk.greenBright.bold("Skills:")}
      MERN Stack | JavaScript | ReactJS | NodeJS | MongoDB | Tailwind | MySql | Git
 
   ${chalk.yellowBright.bold("Achievements:")}
-     - Built full-stack web applications like an Event Management System and a Job-Providing Platform using React.js, Node.js, and       MongoDB.
-     - Movie Review Application
+     - Built full-stack web applications like an Event Management System and
+     a Job-Providing Platform using React.js, Node.js, and MongoDB.
+     - Recently built a Movie Review App using React.js, Node.js, MongoDB Atlas, and Tailwind CSS.
      - Worked with real-world tech stacks, using free APIs and Git for project management.
 
   ${chalk.magentaBright.bold("Connect:")}
